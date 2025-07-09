@@ -27,6 +27,18 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
+     fantuan: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod/',
+        name: '饭团资源',
+    },
+ yxgc: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '影视工厂',
+    },
+ qqzy: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod/',
+        name: '七七资源',
+    },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
